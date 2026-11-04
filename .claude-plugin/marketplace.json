@@ -1,0 +1,15 @@
+{
+  "name": "saas-killer",
+  "owner": {
+    "name": "Sean Ng",
+    "url": "https://github.com/seanng23"
+  },
+  "plugins": [
+    {
+      "name": "saas-killer",
+      "source": "./",
+      "description": "Studies an app you pay for while you're logged in, then builds your own version on your computer, with your Claude subscription as the only AI cost.",
+      "version": "1.0.0"
+    }
+  ]
+}

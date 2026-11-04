@@ -1,0 +1,13 @@
+{
+  "name": "saas-killer",
+  "version": "1.0.0",
+  "description": "Studies an app you pay for while you're logged in, then builds your own version on your computer, with your Claude subscription as the only AI cost.",
+  "author": {
+    "name": "Sean Ng",
+    "url": "https://github.com/seanng23"
+  },
+  "homepage": "https://theaiosmethod.com/resources/app",
+  "repository": "https://github.com/seanng23/saas-killer",
+  "license": "MIT",
+  "keywords": ["skill", "clone", "subscriptions", "local-first"]
+}
